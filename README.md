@@ -1,2 +1,4 @@
 # csgoProyecto
-Proyecto sobre el torneo de csgo
+Proyecto sobre un resumen de CSGO
+sus diferentes juegos
+y el último campeón.
